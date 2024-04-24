@@ -1,7 +1,7 @@
-JNKVAA.csproj
-JNKVAA.csproj.user
-JNKVAA.sln
-Web.Debug.config
-Web.Release.config
-WebService.asmx.cs
-.vscode
+/JNKVAA.csproj
+/JNKVAA.csproj.user
+/JNKVAA.sln
+/Web.Debug.config
+/Web.Release.config
+/WebService.asmx.cs
+/.vscode
